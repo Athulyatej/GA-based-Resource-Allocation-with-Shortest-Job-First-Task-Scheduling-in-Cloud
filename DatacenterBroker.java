@@ -363,7 +363,7 @@ public class DatacenterBroker extends SimEntity {
 		double min_makespan=9999.99;
 		double makespans2[] = new double[50];
 		
-//**************************************priya********************************************
+
 		
 		//INITIAL POPULATION
 		//first 18 chromosomes are made as random
@@ -552,7 +552,7 @@ public class DatacenterBroker extends SimEntity {
 	
 	
 	
-	//******************************poornima*******************************************
+	
 	
 	
 	double etc[][] = new double[40][20];
